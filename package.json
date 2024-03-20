@@ -1,0 +1,25 @@
+{
+  "name": "txx55arthematic-calculator",
+  "version": "1.0.0",
+  "description": "Build the calculator using inquirer , node.js and chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "txx55arthematic-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16",
+    "txx55arthematic-calculator": "^1.0.0"
+  }
+}
